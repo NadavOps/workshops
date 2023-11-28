@@ -1,0 +1,5 @@
+replicaCount: 2
+
+envs:
+  MESSAGE: "─=≡Σ((( つ＞＜)つ"
+  BACKGROUND_COLOR: "pink"
